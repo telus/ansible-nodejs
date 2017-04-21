@@ -6,6 +6,8 @@
   with_items:
     - nodejs
     - build-essential
+    - fish
+    - fish-common
   tags:
     - nodejs
 
